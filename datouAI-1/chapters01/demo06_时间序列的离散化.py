@@ -32,3 +32,5 @@ def cluValue(val):
 
 df['amount3'] = df['amount'].map(cluValue)
 print(df)
+
+#test
